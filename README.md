@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Raspberry Pi Robotic's with Pi-Top
+- 🌱 I’m currently learning Go
+- ⚡ Fun fact: I like tacos. 
