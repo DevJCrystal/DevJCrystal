@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Raspberry Pi Robotic's with Pi-Top
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning Flutter/Dart - And wanting to do more with FastAi
 - ⚡ Fun fact: I like tacos. 
+- 
