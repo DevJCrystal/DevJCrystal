@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Raspberry Pi Robotic's with Pi-Top
-- 🌱 I’m currently learning Flutter/Dart - And wanting to do more with FastAi
-- ⚡ Fun fact: I like tacos. 
-- 
+- 🔭 I’m currently working on Flutter Apps and Games
+- 🌱 I’m currently learning how to better train models with FastAi
