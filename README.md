@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Flutter Apps and Games
-- 🌱 I’m currently learning how to better train models with FastAi
+- 🔭 I’m currently working on Youtube Videos for using FastAi in games
