@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Youtube Videos for using FastAi in games
+- ✨ Finally found a project I am most excited for✨
